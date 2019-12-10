@@ -1,0 +1,228 @@
+@media (min-width: 374px) and (max-width: 767.98px) { 
+	.w-1000{
+		width: auto !important;
+	}
+}
+
+@media (min-width: 1200px) { 
+
+	.up-arrow{
+		margin-left: 80px;
+	}
+
+	.right-side-arrow{
+		margin-left: 115px;
+    	margin-top: -5px;
+	}
+
+	.body-chart{
+		margin-left: 15px;
+		height: 200px;
+	}
+
+	.left-side-arrow{
+		 margin-left: -1px;
+	}
+
+	.heart-chart{
+		margin-left: 15px;
+		height: 200px;
+	}
+
+	.soul-chart{
+		height: 200px;
+	}
+
+	.mind-chart{
+		height: 200px;
+	}
+
+	.modal-content{
+		width: 900px;
+	}
+
+	.model-img{
+		background: linear-gradient(rgba(52, 64, 99, 0), rgba(39, 6, 93, 0.87));
+		width: 170px;
+		margin-top: -100px;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+	.right-side-arrow{
+		margin-left: 80px;
+    	margin-top: -60px;
+	}
+
+	.left-side-arrow{
+		margin-left: -10px;
+	}
+
+	.modal-content{
+		width: 800px;
+	}
+
+	.model-img{
+		background: linear-gradient(rgba(52, 64, 99, 0), rgba(39, 6, 93, 0.87));
+		width: 170px;
+		margin-top: -100px;
+	}
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	.model-img{
+		background: linear-gradient(rgba(52, 64, 99, 0), rgba(39, 6, 93, 0.87));
+		width: 170px;
+		margin-top: -100px;
+	}
+
+	.right-side-arrow{
+		margin-left: 80px;
+    	margin-top: -60px;
+	}
+
+	.left-side-arrow{
+		margin-left: -10px;
+		margin-top: -15px;
+	}
+
+	.modal-content{
+		width: 700px;
+	}
+
+	.body-chart-div{
+		margin-top: -40px;
+    	margin-left: -10px;
+	}
+
+	.heart-chart-div{
+		margin-top: -40px;
+    	margin-left: -10px;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	.up-arrow{
+		margin-left: 135px;
+    	width: 30px;
+	}
+
+	.modal-content{
+		width: 100%;
+	}
+}
+
+@media (min-width: 376px) and (max-width: 575.98px) { 
+	.up-arrow{
+		margin-left: 175px;
+    	width: 30px;
+	}
+
+	.soul-chart{
+		width: 200px;
+	}
+
+	.mind-chart{
+		width: 200px;
+	}
+
+	.body-chart{
+		width: 200px;
+		margin-left: -75px;
+	}
+
+	.heart-chart{
+		width: 200px;
+		margin-left: 40px;
+	}
+
+	.heart-chart-div{
+		margin-top: -100px;
+    	margin-left: 55px;
+	}
+
+	.right-side-arrow{
+		margin-left: 45px;
+    	margin-top: 0px;
+    	width: 30px;
+	}
+
+	.left-side-arrow{
+		margin-left: 135px;
+    	width: 30px;
+	}
+
+	.modal-content{
+		width: 100%;
+		margin-left: 0px !important;
+	}
+
+	html body .modelHead{
+		margin-left: 110px;
+	}
+
+	.model-img{
+		margin-top: -100px;
+		width: 100px;
+		background: linear-gradient(rgba(52, 64, 99, 0), rgba(39, 6, 93, 0.87));
+	}
+}
+
+@media (max-width: 375.98px) { 
+	.modal-content{
+		width: 100%;
+		margin-left: 0px !important;
+	}
+
+	html body .modelHead{
+		margin-left: 110px;
+	}
+
+	.model-img{
+		margin-top: -100px;
+		width: 100px;
+		background: linear-gradient(rgba(52, 64, 99, 0), rgba(39, 6, 93, 0.87));
+	}
+
+	.up-arrow{
+		margin-left: 150px;
+    	width: 30px;
+	}
+
+	.soul-chart{
+		width: 200px;
+	}
+
+	.mind-chart{
+		width: 200px;
+	}
+
+	.body-chart{
+		width: 200px;
+		margin-left: -75px;
+	}
+
+	.heart-chart{
+		width: 200px;
+		margin-left: 50px;
+	}
+
+	.heart-chart-div{
+		margin-top: -100px;
+    	margin-left: 55px;
+	}
+
+	.right-side-arrow{
+		margin-left: 50px;
+    	margin-top: 0px;
+    	width: 30px;
+	}
+
+	.left-side-arrow{
+		margin-left: 110px;
+    	width: 30px;
+	}
+}
